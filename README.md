@@ -1,20 +1,27 @@
-# Let's Chat - MERN Realtime Chat Applicatio
+# Let's Chat - MERN Realtime Chat Application
 
 Let's Chat is a Realtime Chat Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Socket.IO for real-time communication.
 
 ## Features:
 
 **Real-time Communication**: Utilizes Socket.IO for instant messaging, enabling users to communicate in real-time.
+
 **User Authentication**: Users can sign up, log in, and log out securely.
+
 **Private and Group Chats**: Users can engage in private conversations or join group chats.
+
 **Responsive Design**: The application is designed to be responsive and work seamlessly across various devices.
 
 ## Technologies Used:
 
 **MongoDB**: NoSQL database used to store user data and chat messages.
+
 **Express.js**: Node.js framework used for building the backend server and RESTful APIs.
+
 **React.js**: JavaScript library used for building the user interface.
+
 **Node.js**: JavaScript runtime used for server-side scripting.
+
 **Socket.IO**: Enables real-time, bidirectional, and event-based communication between web clients and servers.
 
 ## Run Locally
